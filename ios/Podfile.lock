@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_rtmp_publisher (0.0.1):
+    - Flutter
+    - LFLiveKit
+  - LFLiveKit (2.6)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_rtmp_publisher (from `.symlinks/plugins/flutter_rtmp_publisher/ios`)
+
+SPEC REPOS:
+  trunk:
+    - LFLiveKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_rtmp_publisher:
+    :path: ".symlinks/plugins/flutter_rtmp_publisher/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_rtmp_publisher: 606e34f95274c1d760f5e37acc555e0827c07079
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
+
+PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+
+COCOAPODS: 1.8.4
